@@ -43,7 +43,7 @@ body,html {
       min-height: 100vh;
       align-items: center;
       justify-content: center;
-      background: red;
+      /*background: red;*/
       padding: 3rem;
 
     }
